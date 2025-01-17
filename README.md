@@ -19,5 +19,15 @@ Meu nome é Roberth Furtado, tenho 28 anos e sou natural de São Luís, Maranhã
             src="https://custom-icon-badges.demolab.com/github/followers/RoberthFurtadoDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-
-
+    <a href="https://www.linkedin.com/in/roberth-furtado-ferreira-de-oliveira-341146200/">
+        <img 
+            alt="LINKEDIN" 
+            title="Me siga no LINKEDIN" 
+            src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+               />
+    </a>
+    <a href="https://www.instagram.com/_robertholi/">
+        <img 
+            alt="INSTAGRAM" 
+            title="Me siga no INSTAGRAM" 
+            src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
