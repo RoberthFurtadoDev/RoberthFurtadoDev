@@ -2,7 +2,7 @@
 
 **`Desenvolvedor - 1º Período de Engenharia de Software`**
 
-Meu nome é Roberth Furtado, sou Cristão, tenho 28 anos, casado e Pai do Benjamim, sou natural de São Luís, Maranhão, Brazil. Sou formado em Gestão Comercial pela Faculdade Pitágoras. Atualmente, estou cursando o 1º Período de Engenharia de Software na Universidade UNDB. Sou apaixonado por tecnologia e jogos.
+Meu nome é Roberth Furtado, tenho 28 anos, sou cristão, casado com Rayssa e pai do Benjamim. Sou natural de São Luís, Maranhão, Brazil. Formei-me em Gestão Comercial pela Faculdade Pitágoras e, atualmente, estou cursando o 1º período de Engenharia de Software na Universidade UNDB. Sou apaixonado por tecnologia e jogos, áreas que me inspiram constantemente.
 
 
 <p align="left">
@@ -36,6 +36,10 @@ Meu nome é Roberth Furtado, sou Cristão, tenho 28 anos, casado e Pai do Benjam
     </a>
 </p>
 
-### O que eu faço / What I do 
+### ⚙️ O que eu faço / What I do 
 
-            
+### 💭 Objetivos / Goals           
+
+### 📍 Onde me encontrar / Where to Find me
+
+### 🔍 Vamos nos conectar! / Let's connect! 
