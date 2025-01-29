@@ -44,7 +44,7 @@ Meu nome é Roberth Furtado, tenho 28 anos, sou cristão, casado com Rayssa e pa
   - 🌱 Estou em constante evolução e aprimoramento das minhas habilidades em desenvolvimento, e recentemente ingressei no curso de Engenharia de Software, o que tem sido uma oportunidade única para expandir meu conhecimento e aplicar novas abordagens na prática.
 
   - 🎮 Nos meus momentos livres, aproveito para estudar, estar com minha família, frequentar a igreja e explorar novos destinos por meio de viagens.
-#
+
 - **English:** 
 
     - 💻 I’m currently learning and developing my skills.
@@ -54,8 +54,21 @@ Meu nome é Roberth Furtado, tenho 28 anos, sou cristão, casado com Rayssa e pa
     - 🎮 In my free time, I enjoy studying, spending time with my family, attending church, and exploring new destinations through travel.
 
 
-## 💭 Objetivos / Goals           
+## 💭 Objetivos / Goals   
+- **Português:**
+
+
+- **English:** 
+
 
 ## 📍 Onde me encontrar / Where to Find me
+- **Português:**
+
+
+- **English:** 
 
 ## 🔍 Vamos nos conectar! / Let's connect!
+- **Português:**
+
+
+- **English:** 
