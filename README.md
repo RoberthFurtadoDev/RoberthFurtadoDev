@@ -38,8 +38,8 @@ Meu nome é Roberth Furtado, tenho 28 anos, sou cristão, casado com Rayssa e pa
 
 ## ⚙️ O que eu faço / What I do 
 
-### 💭 Objetivos / Goals           
+## 💭 Objetivos / Goals           
 
-### 📍 Onde me encontrar / Where to Find me
+## 📍 Onde me encontrar / Where to Find me
 
-### 🔍 Vamos nos conectar! / Let's connect! 
+## 🔍 Vamos nos conectar! / Let's connect!
