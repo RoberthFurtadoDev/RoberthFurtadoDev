@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Roberth Furtado Dev
 
-**`Desenvolvedor - 1º período de Engenharia de Software`**
+**`Desenvolvedor - 1º Período de Engenharia de Software`**
 
 Meu nome é Roberth Furtado, tenho 28 anos, casado e Pai, sou natural de São Luís, Maranhão. Sou formado em Gestão Comercial pela Faculdade Pitágoras. Atualmente, estou cursando o 1º período de Engenharia de Software na Universidade UndB. Sou apaixonado por tecnologia e jogos.
 
