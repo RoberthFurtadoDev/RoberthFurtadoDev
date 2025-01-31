@@ -29,7 +29,7 @@ Meu nome é Roberth Furtado, tenho 28 anos, sou cristão, casado com Rayssa e pa
     </a>
     <a href="https://www.instagram.com/_robertholi/">
         <img 
-            alt="INSTAGRAM" 
+            alt="INSTAGRAM"
             title="Me siga no INSTAGRAM" 
             src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
              />
@@ -54,11 +54,11 @@ Meu nome é Roberth Furtado, tenho 28 anos, sou cristão, casado com Rayssa e pa
     - 🎮 In my free time, I enjoy studying, spending time with my family, attending church, and exploring new destinations through travel.
 
 
-## 💭 Objetivos / Goals   
+## 💭 Objetivos / Goals
 - **Português:**
 
 
-- **English:** 
+- **English:**
 
 
 ## 📍 Onde me encontrar / Where to Find me
