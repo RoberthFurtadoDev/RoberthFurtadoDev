@@ -80,7 +80,14 @@ Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pa
     style="padding-right: 10px;" 
     src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"
     />
-
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    />
 
 <br>
 <br>
