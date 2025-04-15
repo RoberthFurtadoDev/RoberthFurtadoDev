@@ -2,15 +2,13 @@
 
 **`Desenvolvedor - 1º Período de Engenharia de Software`**
 
-<p align="center">
-  Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pai do Benjamim.  
-  Sou natural de São Luís, Maranhão, Brasil.  
-  Formei-me em Gestão Comercial pela Faculdade Pitágoras e, atualmente, estou cursando o 1º período de Engenharia de Software na Universidade UNDB.  
-  Sou apaixonado por tecnologia e jogos, áreas que me inspiram constantemente.
-</p>
+Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pai do Benjamim. Sou natural de São Luís, Maranhão, Brasil. Formei-me em Gestão Comercial pela Faculdade Pitágoras e, atualmente, estou cursando o 1º período de Engenharia de Software na Universidade UNDB. Sou apaixonado por tecnologia e jogos, áreas que me inspiram constantemente.
 
-<p align="right">
-  <img src="https://profile-counter.glitch.me/RoberthFurtadoDev/count.svg" alt="Contador de Visitas"/>
+<p align="center">
+  <img 
+    src="https://profile-counter.glitch.me/RoberthFurtadoDev/count.svg" 
+    alt="Contador de Visitas"
+  />
 </p>
 
 <p align="center">
@@ -53,19 +51,58 @@
 
 ---
 
-## 🤖 Linguagens e Tecnologias
+<h2> 🤖 Linguagens e Tecnologias </h2>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px" title="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px" title="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px" title="JavaScript" />
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30px" title="VSCode" />
-  <img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" width="30px" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px" title="Python" />
-</p>
+<img 
+  align="left" 
+  alt="HTML"
+  title="HTML" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="CSS" 
+  title="CSS"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="JavaScript" 
+  title="JavaScript"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="VsCode" 
+  title="VsCode"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Github" 
+  title="GitHub"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" 
+/>
+<img 
+  align="left" 
+  alt="Python" 
+  title="Python"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
-<br><br><br>
+<br><br><br><br>
 
 ---
 
@@ -77,7 +114,7 @@
 
 ---
 
-## 📊 Estatísticas 
+### 📊 Estatísticas 
 
 <p>
   <img
@@ -90,15 +127,11 @@
 
   <img 
     align="left"
-    alt="Top Langs" 
+    alt="GitHub Stats" 
     height="170"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthFurtadoDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10"
   />
 </p>
-
-<br><br><br><br><br>
-
----
 
 <p align="center">
   <img 
