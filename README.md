@@ -11,7 +11,7 @@ Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pa
   />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/RoberthFurtadoDev">
     <img 
       alt="Total de estrelas" 
