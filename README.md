@@ -31,14 +31,14 @@ Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pa
         <img 
             alt="INSTAGRAM"
             title="Me siga no INSTAGRAM" 
-            src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
              />
     </a>
 </p>
 
 ---
 
-<h2> 🤖 Linguagens e Tecnologias <h2>
+<h2> 🤖 Linguagens e Tecnologias </h2>
 
 <img 
     align="left" 
@@ -94,22 +94,17 @@ Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pa
 
 ### 📊 Estatísticas 
 
+  <p align="center">
   <img 
-    align="left" 
     alt="Roberth's GitHub Stats"
     height="170"
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=RoberthFurtadoDev&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true"
-/>
+  />
 
-<img 
-      align="left"
-      alt="GitHub Stats" 
-      height="170"
-      style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthFurtadoDev&theme=tokyonight&layout=compact&random=12345_title=Tecnologias&langs_count=9" 
-/>
-
+  <img 
+    alt="Top Langs"
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthFurtadoDev&theme=tokyonight&layout=compact&langs_count=9"
+  />
 </p>
-
 
