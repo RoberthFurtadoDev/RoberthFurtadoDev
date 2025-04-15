@@ -92,6 +92,24 @@ Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pa
 
 ---
 
+### 👁‍🗨 Contador de Visitas
+
+<p align="center">
+  <img 
+    src="https://profile-counter.glitch.me/RoberthFurtadoDev/count.svg" 
+    alt="Contador de Visitas"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0CFF72&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+bem-vindo+ao+meu+perfil!;Fico+feliz+com+sua+visita+%F0%9F%91%8B;Deixe+uma+estrela+se+curtir+meu+trabalho+%F0%9F%92%AB" 
+    alt="Mensagem animada de boas-vindas"
+  />
+</p>
+
+---
+
 ### 📊 Estatísticas 
 
 <p>
@@ -108,26 +126,6 @@ Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pa
     alt="GitHub Stats" 
     height="170"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthFurtadoDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10"
-  />
-</p>
-
----
-
-<br><br><br><br>
-
-### 👁‍🗨 Contador de Visitas
-
-<p align="center">
-  <img 
-    src="https://profile-counter.glitch.me/RoberthFurtadoDev/count.svg" 
-    alt="Contador de Visitas"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0CFF72&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+bem-vindo+ao+meu+perfil!;Fico+feliz+com+sua+visita+%F0%9F%91%8B;Deixe+uma+estrela+se+curtir+meu+trabalho+%F0%9F%92%AB" 
-    alt="Mensagem animada de boas-vindas"
   />
 </p>
 
