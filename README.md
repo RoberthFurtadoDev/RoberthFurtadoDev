@@ -111,7 +111,7 @@ Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pa
 
 ### 🐍 Snake Game de Contribuição
 
-![snake gif](https://github.com/RoberthFurtadoDev/RoberthFurtadoDev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RoberthFurtadoDev/RoberthFurtadoDev/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
