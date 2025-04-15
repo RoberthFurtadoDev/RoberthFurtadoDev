@@ -92,8 +92,6 @@ Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pa
 
 ---
 
-### 👁‍🗨 Contador de Visitas
-
 <p align="center">
   <img 
     src="https://profile-counter.glitch.me/RoberthFurtadoDev/count.svg" 
@@ -107,6 +105,8 @@ Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pa
     alt="Mensagem animada de boas-vindas"
   />
 </p>
+
+<br><br><br><br>
 
 ---
 
