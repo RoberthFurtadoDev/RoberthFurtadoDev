@@ -111,9 +111,16 @@ Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pa
 
 ### 🔥 Contador de Visitas
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RoberthFurtadoDev&color=blue&style=flat&label=VISITAS" alt="Visitantes no perfil" />
-</p>
+<div align="center" style="margin: 40px 0;">
+  <div style="display: inline-block; border: 2px solid #e1e4e8; border-radius: 16px; padding: 20px 30px; background: linear-gradient(135deg,#fff,#f6f8fa); box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-align: center;">
+    <h3 style="font-size: 1.5rem; font-weight: 700; margin-bottom: 12px;">🔥 Total de Visitas</h3>
+    <img 
+      src="https://komarev.com/ghpvc/?username=RoberthFurtadoDev&color=blue&style=for-the-badge&label=VISITAS" 
+      alt="Visitantes no perfil" 
+      style="height: 50px;"
+    />
+  </div>
+</div>
 
 ---
 
