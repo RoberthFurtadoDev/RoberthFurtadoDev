@@ -131,15 +131,3 @@ Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pa
 | 🔐 [Gerador de Senha Gratuito](https://geradordesenhagratisbob.netlify.app/) | Gera senhas seguras aleatórias para uso pessoal. | ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square) ![JS](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square) |
 | 🌤️ [Previsão do Tempo](https://previsaodotemporoberthdev.netlify.app/) | Consulta clima em tempo real por cidade. | ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square) ![JS](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square) |
 
----
-
-### ✨ Um toque pessoal...
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" alt="coding gif" />
-</p>
-
-> “A tecnologia move o mundo” – Steve Jobs
-
----
-# RoberthFurtadoDev
