@@ -119,9 +119,51 @@ Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pa
 
 ### 🚀 Projetos em Destaque
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| 🧪 [Análise de Casos de AIDS no Maranhão (2018–2023)](https://data-sus-hiv.streamlit.app/) | Visualização de dados públicos sobre HIV/AIDS com Streamlit. | ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-purple?style=flat-square) |
-| 🔐 [Gerador de Senha Gratuito](https://geradordesenhagratisbob.netlify.app/) | Gera senhas seguras aleatórias para uso pessoal. | ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square) ![JS](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square) |
-| 🌤️ [Previsão do Tempo](https://previsaodotemporoberthdev.netlify.app/) | Consulta clima em tempo real por cidade. | ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square) ![JS](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square) |
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px; margin: 24px 0;">
+  <!-- Card 1 -->
+  <div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 16px; background-color: #fafbfc;">
+    <h4 style="font-size: 1.15rem; font-weight: 700; margin-bottom: 8px;">
+      🧪 <a href="https://data-sus-hiv.streamlit.app/" style="text-decoration: none; color: #0366d6;">Análise de Casos de AIDS no Maranhão (2018–2023)</a>
+    </h4>
+    <p style="font-size: 0.95rem; line-height: 1.6; margin-bottom: 12px;">
+      Visualização de dados públicos sobre HIV/AIDS com Streamlit.
+    </p>
+    <p style="margin: 0; font-weight: 600; font-size: 0.9rem;">
+      Tecnologias:
+      <img src="https://img.shields.io/badge/-Python-blue?style=flat-square" alt="Python" style="vertical-align: middle; margin-right: 4px;" />
+      <img src="https://img.shields.io/badge/-Pandas-purple?style=flat-square" alt="Pandas" style="vertical-align: middle;" />
+    </p>
+  </div>
 
+  <!-- Card 2 -->
+  <div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 16px; background-color: #fafbfc;">
+    <h4 style="font-size: 1.15rem; font-weight: 700; margin-bottom: 8px;">
+      🔐 <a href="https://geradordesenhagratisbob.netlify.app/" style="text-decoration: none; color: #0366d6;">Gerador de Senha Gratuito</a>
+    </h4>
+    <p style="font-size: 0.95rem; line-height: 1.6; margin-bottom: 12px;">
+      Gera senhas seguras aleatórias para uso pessoal.
+    </p>
+    <p style="margin: 0; font-weight: 600; font-size: 0.9rem;">
+      Tecnologias:
+      <img src="https://img.shields.io/badge/-HTML-orange?style=flat-square" alt="HTML" style="vertical-align: middle; margin-right: 4px;" />
+      <img src="https://img.shields.io/badge/-CSS-blue?style=flat-square" alt="CSS" style="vertical-align: middle; margin-right: 4px;" />
+      <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square" alt="JavaScript" style="vertical-align: middle;" />
+    </p>
+  </div>
+
+  <!-- Card 3 -->
+  <div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 16px; background-color: #fafbfc;">
+    <h4 style="font-size: 1.15rem; font-weight: 700; margin-bottom: 8px;">
+      🌤️ <a href="https://previsaodotemporoberthdev.netlify.app/" style="text-decoration: none; color: #0366d6;">Previsão do Tempo</a>
+    </h4>
+    <p style="font-size: 0.95rem; line-height: 1.6; margin-bottom: 12px;">
+      Consulta clima em tempo real por cidade.
+    </p>
+    <p style="margin: 0; font-weight: 600; font-size: 0.9rem;">
+      Tecnologias:
+      <img src="https://img.shields.io/badge/-HTML-orange?style=flat-square" alt="HTML" style="vertical-align: middle; margin-right: 4px;" />
+      <img src="https://img.shields.io/badge/-CSS-blue?style=flat-square" alt="CSS" style="vertical-align: middle; margin-right: 4px;" />
+      <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square" alt="JavaScript" style="vertical-align: middle;" />
+    </p>
+  </div>
+</div>
