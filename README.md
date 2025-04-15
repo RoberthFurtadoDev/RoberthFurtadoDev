@@ -2,14 +2,30 @@
 
 **`Desenvolvedor - 1º Período de Engenharia de Software`**
 
-Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pai do Benjamim. Sou natural de São Luís, Maranhão, Brazil. Formei-me em Gestão Comercial pela Faculdade Pitágoras e, atualmente, estou cursando o 1º período de Engenharia de Software na Universidade UNDB. Sou apaixonado por tecnologia e jogos, áreas que me inspiram constantemente.
+<p align="center">
+  Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pai do Benjamim.  
+  Sou natural de São Luís, Maranhão, Brasil.  
+  Formei-me em Gestão Comercial pela Faculdade Pitágoras e, atualmente, estou cursando o 1º período de Engenharia de Software na Universidade UNDB.  
+  Sou apaixonado por tecnologia e jogos, áreas que me inspiram constantemente.
+</p>
+
+<p align="right">
+  <img src="https://profile-counter.glitch.me/RoberthFurtadoDev/count.svg" alt="Contador de Visitas"/>
+</p>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0CFF72&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+bem-vindo+ao+meu+perfil!;Fico+feliz+com+sua+visita+%F0%9F%91%8B;Deixe+uma+estrela" 
+    alt="Mensagem animada de boas-vindas"
+  />
+</p>
 
 <p align="left">
   <a href="https://github.com/RoberthFurtadoDev">
     <img 
       alt="Total de estrelas" 
       title="Total de estrelas GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/adoDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+      src="https://custom-icon-badges.demolab.com/github/stars/RoberthFurtadoDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
     />
   </a>
   <a href="https://github.com/RoberthFurtadoDev?tab=followers">
@@ -37,78 +53,31 @@ Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pa
 
 ---
 
-<h2> 🤖 Linguagens e Tecnologias </h2>
+## 🤖 Linguagens e Tecnologias
 
-<img 
-  align="left" 
-  alt="HTML"
-  title="HTML" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="CSS" 
-  title="CSS"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="JavaScript" 
-  title="JavaScript"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="VsCode" 
-  title="VsCode"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="Github" 
-  title="GitHub"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" 
-/>
-<img 
-  align="left" 
-  alt="Python" 
-  title="Python"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px" title="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px" title="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px" title="JavaScript" />
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30px" title="VSCode" />
+  <img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" width="30px" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px" title="Python" />
+</p>
 
-<br><br><br><br>
+<br><br><br>
 
 ---
 
-<p align="center">
-  <img 
-    src="https://profile-counter.glitch.me/RoberthFurtadoDev/count.svg" 
-    alt="Contador de Visitas"
-  />
-</p>
+## 🚀 Projetos em Destaque
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0CFF72&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+bem-vindo+ao+meu+perfil!;Fico+feliz+com+sua+visita+%F0%9F%91%8B;Deixe+uma+estrela" 
-    alt="Mensagem animada de boas-vindas"
-  />
-</p>
+- [Portfólio Pessoal](https://github.com/RoberthFurtadoDev/portfolio) — Meu site pessoal com projetos e tecnologias que domino.
+- [Nome do Projeto](https://github.com/RoberthFurtadoDev/algum-projeto) — Descrição breve do que esse projeto faz.
+- [Outro Projeto Legal](https://github.com/RoberthFurtadoDev/outro-projeto) — Mais um destaque do que estou aprendendo/criando.
 
 ---
 
-### 📊 Estatísticas 
+## 📊 Estatísticas 
 
 <p>
   <img
@@ -121,14 +90,15 @@ Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pa
 
   <img 
     align="left"
-    alt="GitHub Stats" 
+    alt="Top Langs" 
     height="170"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthFurtadoDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10"
   />
 </p>
 
-<br><br><br><br>
+<br><br><br><br><br>
 
+---
 
 <p align="center">
   <img 
