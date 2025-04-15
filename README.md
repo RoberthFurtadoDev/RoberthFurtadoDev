@@ -112,12 +112,12 @@ Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pa
 <p align="left">
   <img
     alt="Estatísticas de Roberth" 
-    height="170"
+    height="150"
     src="https://github-readme-stats.vercel.app/api?username=RoberthFurtadoDev&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&hide_title=true"
   />
   <img 
     alt="Linguagens mais usadas por Roberth" 
-    height="170"
+    height="150"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthFurtadoDev&theme=tokyonight&layout=compact&langs_count=10&hide_title=true"
   />
 </p>
