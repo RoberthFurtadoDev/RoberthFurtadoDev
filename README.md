@@ -11,13 +11,6 @@ Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pa
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0CFF72&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+bem-vindo+ao+meu+perfil!;Fico+feliz+com+sua+visita+%F0%9F%91%8B;Deixe+uma+estrela" 
-    alt="Mensagem animada de boas-vindas"
-  />
-</p>
-
 <p align="left">
   <a href="https://github.com/RoberthFurtadoDev">
     <img 
