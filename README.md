@@ -108,9 +108,9 @@ Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pa
 
 ## 🚀 Projetos em Destaque
 
-- [Portfólio Pessoal](https://github.com/RoberthFurtadoDev/portfolio) — Meu site pessoal com projetos e tecnologias que domino.
-- [Nome do Projeto](https://github.com/RoberthFurtadoDev/algum-projeto) — Descrição breve do que esse projeto faz.
-- [Outro Projeto Legal](https://github.com/RoberthFurtadoDev/outro-projeto) — Mais um destaque do que estou aprendendo/criando.
+- [ANÁLISE DE CASOS DE AIDS NO MARANHÃO: ENTRE 2018 A 2023](https://data-sus-hiv.streamlit.app/)
+- [GERADOR DE SENHA GRATUITO](https://geradordesenhagratisbob.netlify.app/)
+- [CALCULADORA](https://calculadorahtml-css.netlify.app/)
 
 ---
 
