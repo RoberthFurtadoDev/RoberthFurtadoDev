@@ -50,7 +50,7 @@ Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pa
   alt="JAVA"
   title="JAVA" 
   width="35px" 
-  style="padding-right: 10px; position: relative; top: -3px;"
+  style="padding-right: 10px; margin-top: -5px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
