@@ -45,7 +45,30 @@ Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pa
 ---
 
 <h2> 🤖 Linguagens e Tecnologias </h2>
-
+<img 
+  align="left" 
+  alt="JAVA"
+  title="JAVA" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="JavaScript" 
+  title="JavaScript"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Python" 
+  title="Python"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 <img 
   align="left" 
   alt="HTML"
@@ -64,14 +87,6 @@ Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pa
 />
 <img 
   align="left" 
-  alt="JavaScript" 
-  title="JavaScript"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-  align="left" 
   alt="VsCode" 
   title="VsCode"
   width="30px" 
@@ -85,14 +100,6 @@ Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pa
   width="30px" 
   style="padding-right: 10px;" 
   src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" 
-/>
-<img 
-  align="left" 
-  alt="Python" 
-  title="Python"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <br><br><br><br>
