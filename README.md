@@ -55,6 +55,14 @@ Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pa
 />
 <img 
   align="left" 
+  alt="SPRING"
+  title="SPRING" 
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+  align="left" 
   alt="JavaScript" 
   title="JavaScript"
   width="30px" 
@@ -87,6 +95,14 @@ Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pa
 />
 <img 
   align="left" 
+  alt="REACT"
+  title="REACT" 
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+  align="left" 
   alt="VsCode" 
   title="VsCode"
   width="30px" 
@@ -101,33 +117,61 @@ Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pa
   style="padding-right: 10px;" 
   src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" 
 />
+<img 
+  align="left" 
+  alt="GIT" 
+  title="GIT"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="POSTGRESQL" 
+  title="POSTGRESQL"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="MYSQL" 
+  title="MYSQL"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="SQL" 
+  title="SQL"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="DOCKER" 
+  title="DCOKER"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
 
 <br><br><br><br>
-
----
-
-## 🚀 Projetos em Destaque
-
-- [ANÁLISE DE CASOS DE AIDS NO MARANHÃO: ENTRE 2018 A 2023](https://data-sus-hiv.streamlit.app/)
-- [GERADOR DE SENHA GRATUITO](https://geradordesenhagratisbob.netlify.app/)
-- [CALCULADORA](https://calculadorahtml-css.netlify.app/)
-
----
 
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
   <img
     alt="Estatísticas de Roberth" 
-    height="150"
+    height="185"
     src="https://github-readme-stats.vercel.app/api?username=RoberthFurtadoDev&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&hide_title=true&count_private=true"
   />
-  <img 
-    alt="Linguagens mais usadas por Roberth" 
-    height="150"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthFurtadoDev&theme=tokyonight&layout=compact&langs_count=10&hide_title=true"
-  />
-</p>
+<img 
+  alt="Linguagens mais usadas por Roberth" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthFurtadoDev&theme=tokyonight&layout=compact&langs_count=10&hide_title=true"
+/>
 
 <p align="center">
   <img
