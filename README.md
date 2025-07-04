@@ -26,7 +26,7 @@ Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pa
       src="https://custom-icon-badges.demolab.com/github/followers/RoberthFurtadoDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
     />
   </a>
-  <a href="https://www.linkedin.com/in/roberth-furtado-ferreira-de-oliveira-341146200/">
+  <a href="https://www.linkedin.com/in/roberthfurtado/">
     <img 
       alt="LinkedIn" 
       title="Me siga no LinkedIn" 
