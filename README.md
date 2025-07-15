@@ -1,15 +1,8 @@
-# 👨🏻‍💻 Roberth Furtado Dev
+# 👨🏻‍💻 Olá, Sou Roberth!
 
-**`Desenvolvedor - 2º Período de Engenharia de Software`**
+**`Desenvolvedor Java - 2º Período de Engenharia de Software`**
 
-Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pai do Benjamim. Sou natural de São Luís, Maranhão, Brasil. Formei-me em Gestão Comercial pela Faculdade Pitágoras e, atualmente, estou cursando o 2º período de Engenharia de Software na Universidade UNDB. Sou apaixonado por tecnologia e jogos, áreas que me inspiram constantemente.
-
-<p align="center">
-  <img 
-    src="https://profile-counter.glitch.me/RoberthFurtadoDev/count.svg" 
-    alt="Contador de Visitas"
-  />
-</p>
+Meu nome é Roberth, atualmente estou cursando o 2º período de Engenharia de Software na Universidade UNDB, onde busco excelência em Java, no framework Spring e nos princípios da Programação Orientada a Objetos (POO). Possuo experiência com o desenvolvimento de APIs RESTful, arquitetura de Microsserviços e a implementação de práticas de CI/CD (Integração Contínua/Entrega Contínua). Meu objetivo é desenvolver sistemas eficientes e de alta qualidade. Complementarmente, possuo formação em Gestão Comercial pela Faculdade Pitágoras.
 
 <p align="center">
 <a href="https://github.com/RoberthFurtadoDev">
@@ -165,7 +158,7 @@ Meu nome é Roberth Furtado, tenho 29 anos, sou cristão, casado com Rayssa e pa
 <p align="left">
   <img
     alt="Estatísticas de Roberth" 
-    height="185"
+    height="188"
     src="https://github-readme-stats.vercel.app/api?username=RoberthFurtadoDev&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&hide_title=true&count_private=true"
   />
 <img 
