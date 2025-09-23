@@ -2,7 +2,9 @@
 
 **`Engenheiro de Software - Backend Java`**
 
-Meu nome é Roberth, atualmente estou cursando Engenharia de Software na Universidade UNDB, onde busco excelência em Java, no framework Spring e nos princípios da Programação Orientada a Objetos (POO). Possuo experiência com o desenvolvimento de APIs RESTful, arquitetura de Microsserviços e a implementação de práticas de CI/CD (Integração Contínua/Entrega Contínua). Meu objetivo é desenvolver sistemas eficientes e de alta qualidade. Complementarmente, possuo formação em Gestão Comercial pela Faculdade Pitágoras.
+Engenheiro de Software focado em Backend Java, Spring Boot e arquiteturas de microsserviços. Trago uma perspectiva única para a tecnologia, combinando 7 anos de experiência em Gestão Comercial — onde desenvolvi liderança, visão de negócio e foco no cliente — com a paixão por construir soluções de software robustas, escaláveis e de alta performance.
+
+Sou apaixonado por boas práticas como Clean Code, testes automatizados (JUnit/Mockito) e metodologias que entregam valor real, como Scrum e Kanban.
 
 <p align="center">
 <a href="https://github.com/RoberthFurtadoDev">
