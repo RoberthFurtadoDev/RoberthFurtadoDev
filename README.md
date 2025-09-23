@@ -163,7 +163,7 @@ Meu nome é Roberth, atualmente estou cursando o 2º período de Engenharia de S
   />
 <img 
   alt="Linguagens mais usadas por Roberth" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthFurtadoDev&theme=tokyonight&layout=compact&langs_count=10&hide_title=true&hide=dart,cmake,swift"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthFurtadoDev&theme=tokyonight&layout=compact&langs_count=10&hide_title=true&hide=dart,cmake,swift, c, dockerfile"
 />
 
 <p align="center">
