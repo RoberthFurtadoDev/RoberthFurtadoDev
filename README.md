@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Olá, Sou Roberth!
 
-**`Desenvolvedor Java - 2º Período de Engenharia de Software`**
+**`Engenheiro de Software - Backend Java`**
 
-Meu nome é Roberth, atualmente estou cursando o 2º período de Engenharia de Software na Universidade UNDB, onde busco excelência em Java, no framework Spring e nos princípios da Programação Orientada a Objetos (POO). Possuo experiência com o desenvolvimento de APIs RESTful, arquitetura de Microsserviços e a implementação de práticas de CI/CD (Integração Contínua/Entrega Contínua). Meu objetivo é desenvolver sistemas eficientes e de alta qualidade. Complementarmente, possuo formação em Gestão Comercial pela Faculdade Pitágoras.
+Meu nome é Roberth, atualmente estou cursando Engenharia de Software na Universidade UNDB, onde busco excelência em Java, no framework Spring e nos princípios da Programação Orientada a Objetos (POO). Possuo experiência com o desenvolvimento de APIs RESTful, arquitetura de Microsserviços e a implementação de práticas de CI/CD (Integração Contínua/Entrega Contínua). Meu objetivo é desenvolver sistemas eficientes e de alta qualidade. Complementarmente, possuo formação em Gestão Comercial pela Faculdade Pitágoras.
 
 <p align="center">
 <a href="https://github.com/RoberthFurtadoDev">
