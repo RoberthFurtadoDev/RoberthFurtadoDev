@@ -52,6 +52,8 @@ Sou apaixonado por boas práticas como Clean Code, testes automatizados (JUnit/M
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka"/>
         <br><b>Kafka</b>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="90">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
         <br><b>Git</b>
@@ -59,6 +61,14 @@ Sou apaixonado por boas práticas como Clean Code, testes automatizados (JUnit/M
        <td align="center" width="90">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VsCode"/>
         <br><b>VsCode</b>
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+        <br><b>Python</b>
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ"/>
+        <br><b>IntelliJ</b>
       </td>
     </tr>
   </table>
