@@ -16,8 +16,8 @@ Sou apaixonado por boas práticas como Clean Code, testes automatizados (JUnit/M
   <a href="https://www.linkedin.com/in/roberthfurtado/">
     <img alt="LinkedIn" title="Me siga no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/roberth_engsof/">
-    <img alt="Instagram" title="Me siga no Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="mailto:seuemail@exemplo.com">
+    <img alt="Email" title="Entre em contato" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -66,24 +66,10 @@ Sou apaixonado por boas práticas como Clean Code, testes automatizados (JUnit/M
 
 <br>
 
-## 📊 Estatísticas e Performance
+## 📊 Performance & Estatísticas
 
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <img height="170px" src="https://github-readme-stats.vercel.app/api?username=RoberthFurtadoDev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=236AD3&icon_color=236AD3&bg_color=0d1117" alt="GitHub Stats" />
-      </td>
-      <td valign="top" width="50%">
-         <img height="170px" src="https://github.com/RoberthFurtadoDev/RoberthFurtadoDev/blob/main/github-metrics.svg" alt="Metrics Radar Chart">
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthFurtadoDev&layout=compact&theme=tokyonight&hide_border=true&title_color=236AD3&langs_count=8&bg_color=0d1117" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github.com/RoberthFurtadoDev/RoberthFurtadoDev/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 <br>
