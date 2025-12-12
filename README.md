@@ -66,14 +66,6 @@ Sou apaixonado por boas práticas como Clean Code, testes automatizados (JUnit/M
 
 <br>
 
-## 📊 Performance & Estatísticas
-
-<div align="center">
-  <img src="https://github.com/RoberthFurtadoDev/RoberthFurtadoDev/blob/main/github-metrics.svg" alt="Metrics" width="100%">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=60&section=footer"/>
+<div align="left">
+  <img src="https://github.com/RoberthFurtadoDev/RoberthFurtadoDev/blob/main/github-metrics.svg" alt="Metrics Radar" width="600">
 </div>

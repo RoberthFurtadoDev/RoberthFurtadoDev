@@ -14,22 +14,14 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           
-          # Configurações Gerais
+          # Configuração Visual
           user: RoberthFurtadoDev
           template: classic
-          config_timezone: America/Sao_Paulo
           filename: github-metrics.svg
           
-          # 1. Base (Substitui o cartão de Stats quebrado)
-          base: header, activity, community, repositories, metadata
+          # IMPORTANTE: Isso desativa toda a poluição visual (Activity, Community, etc.)
+          base: ""
           
-          # 2. Linguagens (Substitui o gráfico de linguagens quebrado)
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 8
-          
-          # 3. Gráfico Isométrico Premium (Ajustado para não dar erro)
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year 
-          # "half-year" corrige o erro "Unexpected Error" que você teve antes
+          # Ativa APENAS o gráfico de Radar (A Cruz)
+          plugin_followup: yes
+          plugin_followup_sections: repositories
