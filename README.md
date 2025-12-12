@@ -1,177 +1,35 @@
-# 👨🏻‍💻 Olá, Sou Roberth!
+# Roberth Furtado
 
-**`Engenheiro de Software - Backend Java`**
+**Software Engineer** | Backend Java • Spring Boot • Microservices
 
-Engenheiro de Software focado em Backend Java, Spring Boot e arquiteturas de microsserviços. Trago uma perspectiva única para a tecnologia, combinando 7 anos de experiência em Gestão Comercial — onde desenvolvi liderança, visão de negócio e foco no cliente — com a paixão por construir soluções de software robustas, escaláveis e de alta performance.
+Engenheiro de Software especializado em arquiteturas escaláveis e sistemas distribuídos. Com experiência em liderança e gestão comercial, combino visão de negócio com excelência técnica para criar soluções de alto impacto.
 
-Sou apaixonado por boas práticas como Clean Code, testes automatizados (JUnit/Mockito) e metodologias ágeis que entregam valor real, como Scrum e Kanban.
-
-<p align="center">
-<a href="https://github.com/RoberthFurtadoDev">
-  <img 
-    alt="Total de estrelas" 
-    title="Total de estrelas GitHub" 
-    src="https://img.shields.io/github/stars/RoberthFurtadoDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-  />
-</a>
-  <a href="https://github.com/RoberthFurtadoDev?tab=followers">
-    <img 
-      alt="Seguidores" 
-      title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/RoberthFurtadoDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/roberthfurtado/">
-    <img 
-      alt="LinkedIn" 
-      title="Me siga no LinkedIn" 
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
-  <a href="https://www.instagram.com/roberth_engsof/">
-    <img 
-      alt="Instagram"
-      title="Me siga no Instagram" 
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberthfurtado/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/RoberthFurtadoDev)
 
 ---
 
-<h2> 🤖 Linguagens e Tecnologias </h2>
-<img 
-  align="left" 
-  alt="JAVA"
-  title="JAVA" 
-  width="30px" 
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="SPRING"
-  title="SPRING" 
-  width="30px" 
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="JavaScript" 
-  title="JavaScript"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="Python" 
-  title="Python"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="HTML"
-  title="HTML" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="CSS" 
-  title="CSS"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="REACT"
-  title="REACT" 
-  width="30px" 
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="VsCode" 
-  title="VsCode"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="Github" 
-  title="GitHub"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" 
-/>
-<img 
-  align="left" 
-  alt="GIT" 
-  title="GIT"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="POSTGRESQL" 
-  title="POSTGRESQL"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="MYSQL" 
-  title="MYSQL"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="SQL" 
-  title="SQL"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="DOCKER" 
-  title="DCOKER"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
+## Core Skills
 
-<br><br><br><br>
+**Backend** • Java • Spring Boot • REST APIs • Microservices  
+**Database** • PostgreSQL • MySQL  
+**DevOps** • Docker • Git  
+**Practices** • Clean Code • TDD • Scrum • Kanban
 
-## 📊 Estatísticas do GitHub
+---
 
-<p align="left">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=RoberthFurtadoDev&show_icons=true&theme=tokyonight&count_private=true"
-  />
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthFurtadoDev&layout=compact&theme=tokyonight"
-  />
-</p>
+## Featured Projects
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/RoberthFurtadoDev/RoberthFurtadoDev/main/dist/github-contribution-snake.svg" 
-    alt="GitHub Contribution Snake"
-    style="max-width: 100%;" 
-  />
-</p>
+Em construção — projetos selecionados em breve.
+
+---
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoberthFurtadoDev&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthFurtadoDev&layout=compact&theme=transparent&hide_border=true)
+
+---
+
+**Open to opportunities** • Backend Java positions • Microservices architecture
