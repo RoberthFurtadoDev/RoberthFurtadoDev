@@ -43,6 +43,5 @@ Sou apaixonado por boas práticas como Clean Code, testes automatizados (JUnit/M
 <hr style="border: 0; height: 1px; background-color: #ffffff10; margin: 24px 0;" />
 
 <div align="center">
-  <img src="https://github.com/RoberthFurtadoDev/RoberthFurtadoDev/blob/main/github-metrics.svg" alt="GitHub Stats Cruz">
-  
+
 </div>
