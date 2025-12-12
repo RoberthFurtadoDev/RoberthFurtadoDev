@@ -159,16 +159,14 @@ Sou apaixonado por boas práticas como Clean Code, testes automatizados (JUnit/M
 
 <p align="left">
   <img
-    alt="Estatísticas de Roberth" 
-    height="188"
-    src="https://github-readme-stats.vercel.app/api?username=RoberthFurtadoDev&show_icons=true&theme=tokyonight&locale=pt-br&hide_title=true&count_private=true"
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=RoberthFurtadoDev&show_icons=true&theme=tokyonight&count_private=true"
   />
-<img 
-  alt="Linguagens mais usadas por Roberth"
-  height="189" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthFurtadoDev&theme=tokyonight&layout=compact&langs_count=10&hide_title=true&hide=dart,cmake,swift,c,dockerfile,procfile,objective-c"
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthFurtadoDev&layout=compact&theme=tokyonight"
   />
-
+</p>
 
 <p align="center">
   <img
