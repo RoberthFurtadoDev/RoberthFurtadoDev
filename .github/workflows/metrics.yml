@@ -1,10 +1,8 @@
 name: Metrics
 on:
-  # Agenda atualizações diárias
+  # Atualiza diariamente
   schedule: [{cron: "0 0 * * *"}]
-  # Permite rodar manualmente
   workflow_dispatch:
-  # Roda a cada commit no master/main
   push: {branches: ["master", "main"]}
 
 jobs:
@@ -15,15 +13,17 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Seu token (O GitHub gerencia isso automaticamente)
           token: ${{ secrets.GITHUB_TOKEN }}
-
-          # Opções principais
+          
+          # Configuração Básica
           user: RoberthFurtadoDev
           template: classic
-          # A "mágica" está aqui: usamos apenas a base 'activity' para o radar chart
-          base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
-          
-          # Nome do arquivo gerado
           filename: github-metrics.svg
+          
+          # TRUQUE: Desativamos a 'base' para não mostrar bio/seguidores/avatar
+          base: ""
+          
+          # Ativamos APENAS o plugin followup (O gráfico de radar/cruz que você quer)
+          plugin_followup: yes
+          plugin_followup_sections: repositories
