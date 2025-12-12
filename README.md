@@ -26,22 +26,56 @@ Sou apaixonado por boas práticas como Clean Code, testes automatizados (JUnit/M
 <div align="center">
   <table>
     <tr>
-      <td width="60" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java"/></td>
-      <td width="60" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60" alt="Spring"/></td>
-      <td width="60" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" alt="Docker"/></td>
-      <td width="60" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL"/></td>
-      <td width="60" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60" alt="AWS"/></td>
-      <td width="60" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="60" height="60" alt="Kafka"/></td>
-      <td width="60" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60" alt="Git"/></td>
-      <td width="60" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60" alt="VsCode"/></td>
-      <td width="60" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/></td>
-      <td width="60" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60" height="60" alt="IntelliJ"/></td>
+      <td width="80" align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java"/>
+        <br/>
+        <span>Java</span>
+      </td>
+      <td width="80" align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60" alt="Spring"/>
+        <br/>
+        <span>Spring</span>
+      </td>
+      <td width="80" align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" alt="Docker"/>
+        <br/>
+        <span>Docker</span>
+      </td>
+      <td width="80" align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL"/>
+        <br/>
+        <span>PostgreSQL</span>
+      </td>
+      <td width="80" align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60" alt="AWS"/>
+        <br/>
+        <span>AWS</span>
+      </td>
+      <td width="80" align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="60" height="60" alt="Kafka"/>
+        <br/>
+        <span>Kafka</span>
+      </td>
+      <td width="80" align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60" alt="Git"/>
+        <br/>
+        <span>Git</span>
+      </td>
+      <td width="80" align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60" alt="VsCode"/>
+        <br/>
+        <span>VS Code</span>
+      </td>
+      <td width="80" align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
+        <br/>
+        <span>Python</span>
+      </td>
+      <td width="80" align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60" height="60" alt="IntelliJ"/>
+        <br/>
+        <span>IntelliJ</span>
+      </td>
     </tr>
   </table>
-</div>
-
-<hr style="border: 0; height: 1px; background-color: #ffffff10; margin: 24px 0;" />
-
-<div align="center">
-
 </div>
