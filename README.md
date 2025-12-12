@@ -44,4 +44,5 @@ Sou apaixonado por boas práticas como Clean Code, testes automatizados (JUnit/M
 
 <div align="center">
   <img src="https://github.com/RoberthFurtadoDev/RoberthFurtadoDev/blob/main/github-metrics.svg" alt="GitHub Stats Cruz">
+  
 </div>
