@@ -1,5 +1,6 @@
 name: Metrics
 on:
+  # Atualiza diariamente
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -14,14 +15,15 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           
-          # Configuração Visual
+          # Configuração Básica
           user: RoberthFurtadoDev
           template: classic
           filename: github-metrics.svg
+          config_timezone: America/Sao_Paulo
           
-          # IMPORTANTE: Isso desativa toda a poluição visual (Activity, Community, etc.)
+          # GARANTE QUE NÃO TERÁ POLUIÇÃO VISUAL
           base: ""
           
-          # Ativa APENAS o gráfico de Radar (A Cruz)
-          plugin_followup: yes
-          plugin_followup_sections: repositories
+          # ATIVA O GRÁFICO DE RADAR/CRUZ EXATO QUE VOCÊ QUER
+          plugin_introduction: yes
+          plugin_introduction_title: no # Remove o título para ficar só o gráfico

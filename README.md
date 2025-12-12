@@ -6,7 +6,7 @@ Engenheiro de Software focado em Backend Java, Spring Boot e arquiteturas de mic
 
 Sou apaixonado por boas práticas como Clean Code, testes automatizados (JUnit/Mockito) e metodologias ágeis que entregam valor real, como Scrum e Kanban.
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/RoberthFurtadoDev">
     <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://img.shields.io/github/stars/RoberthFurtadoDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
   </a>
@@ -23,9 +23,9 @@ Sou apaixonado por boas práticas como Clean Code, testes automatizados (JUnit/M
 
 <br>
 
-## 🛠️ Tech Stack & Ferramentas
+<h2 align="center">🛠️ Tech Stack & Ferramentas</h2>
 
-<div align="left">
+<div align="center">
   <table>
     <tr>
       <td align="center" width="90">
@@ -66,6 +66,6 @@ Sou apaixonado por boas práticas como Clean Code, testes automatizados (JUnit/M
 
 <br>
 
-<div align="left">
+<div align="center">
   <img src="https://github.com/RoberthFurtadoDev/RoberthFurtadoDev/blob/main/github-metrics.svg" alt="Metrics Radar" width="600">
 </div>
